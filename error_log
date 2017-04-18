@@ -1,0 +1,104 @@
+[20-Oct-2016 09:28:19 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[20-Oct-2016 09:28:29 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[22-Oct-2016 13:34:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/test/adminpanel/ajaxCall.php on line 4
+[22-Oct-2016 13:34:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/test/adminpanel/ajaxCall.php on line 4
+[23-Oct-2016 22:20:47 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[23-Oct-2016 22:21:12 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[24-Oct-2016 10:25:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/test/adminpanel/ajaxCall.php on line 4
+[24-Oct-2016 10:25:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/test/adminpanel/ajaxCall.php on line 4
+[24-Oct-2016 11:10:55 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[24-Oct-2016 11:10:55 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[24-Oct-2016 11:37:08 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[24-Oct-2016 11:37:39 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[24-Oct-2016 11:41:22 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[24-Oct-2016 11:41:46 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[25-Oct-2016 04:13:12 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[25-Oct-2016 04:14:02 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[25-Oct-2016 04:14:31 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[25-Oct-2016 04:15:34 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[25-Oct-2016 04:15:53 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/test/adminpanel/application/libs/Bootstrap.php on line 51
+[26-Oct-2016 03:42:17 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[26-Oct-2016 03:42:37 Canada/Eastern] PHP Fatal error:  Call to undefined method Notification::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[26-Oct-2016 11:47:01 Canada/Eastern] PHP Fatal error:  Call to undefined method Manageadmin::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[27-Oct-2016 11:43:17 Canada/Eastern] PHP Fatal error:  Call to undefined method Downloadforms::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[27-Oct-2016 11:43:24 Canada/Eastern] PHP Fatal error:  Call to undefined method Downloadforms::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[28-Oct-2016 09:40:16 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[28-Oct-2016 10:49:57 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[28-Oct-2016 20:20:38 Asia/Calcutta] PHP Notice:  Undefined variable: row88 in /home/varun2patel/public_html/adminpanel/application/control/mail.php on line 309
+[28-Oct-2016 20:20:38 Asia/Calcutta] PHP Notice:  Trying to get property of non-object in /home/varun2patel/public_html/adminpanel/application/control/mail.php on line 309
+[28-Oct-2016 11:16:40 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[28-Oct-2016 11:16:40 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[28-Oct-2016 15:07:47 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[28-Oct-2016 15:07:47 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[29-Oct-2016 01:46:09 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[29-Oct-2016 04:53:05 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[29-Oct-2016 10:18:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/adminpanel/ajaxCall.php on line 4
+[29-Oct-2016 10:18:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/adminpanel/ajaxCall.php on line 4
+[29-Oct-2016 11:03:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/adminpanel/ajaxCall.php on line 4
+[29-Oct-2016 11:03:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/adminpanel/ajaxCall.php on line 4
+[29-Oct-2016 12:00:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/adminpanel/ajaxCall.php on line 4
+[29-Oct-2016 12:00:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/varun2patel/public_html/adminpanel/ajaxCall.php on line 4
+[29-Oct-2016 11:04:25 Canada/Eastern] PHP Fatal error:  Call to undefined method Mail::favicon.ico() in /home/varun2patel/public_html/adminpanel/application/libs/Bootstrap.php on line 51
+[18-Nov-2016 08:28:01 Canada/Eastern] PHP Parse error:  syntax error, unexpected ''<!DOCTYPE html PUBLIC "-//W3C' (T_ENCAPSED_AND_WHITESPACE) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/login.php on line 57
+[18-Nov-2016 08:42:50 Canada/Eastern] PHP Fatal error:  Can't use function return value in write context in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 3361
+[19-Nov-2016 06:16:29 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[19-Nov-2016 06:17:22 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[19-Nov-2016 06:17:25 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[19-Nov-2016 06:17:27 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[19-Nov-2016 06:28:00 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[19-Nov-2016 06:54:24 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[19-Nov-2016 06:59:39 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[22-Nov-2016 03:47:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[23-Nov-2016 06:55:23 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 06:58:58 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 08:25:38 Canada/Eastern] PHP Fatal error:  Cannot redeclare Home::listnotes() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 3706
+[23-Nov-2016 08:25:44 Canada/Eastern] PHP Fatal error:  Cannot redeclare Home::listnotes() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 3706
+[23-Nov-2016 08:25:55 Canada/Eastern] PHP Fatal error:  Cannot redeclare Home::listnotes() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 3706
+[23-Nov-2016 08:32:47 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 08:32:50 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 08:32:54 Canada/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 628
+[23-Nov-2016 08:32:56 Canada/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 2141
+[23-Nov-2016 08:41:36 Canada/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 3596
+[23-Nov-2016 08:51:14 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 08:51:18 Canada/Eastern] PHP Warning:  Unterminated comment starting line 883 in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 883
+[23-Nov-2016 08:51:18 Canada/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 883
+[23-Nov-2016 08:51:20 Canada/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 2429
+[23-Nov-2016 08:57:29 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 09:07:04 Canada/Eastern] PHP Parse error:  syntax error, unexpected ''payment_amount' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 1573
+[23-Nov-2016 09:07:18 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 09:07:21 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 09:07:23 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Nov-2016 09:38:52 Canada/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 1361
+[25-Nov-2016 02:58:38 Canada/Eastern] PHP Fatal error:  Class 'Login' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 22
+[25-Nov-2016 08:03:08 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[25-Nov-2016 08:03:13 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[25-Nov-2016 08:03:21 Canada/Eastern] PHP Parse error:  syntax error, unexpected '$temp' (T_VARIABLE) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 4166
+[25-Nov-2016 08:03:22 Canada/Eastern] PHP Parse error:  syntax error, unexpected '$temp' (T_VARIABLE) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 4166
+[25-Nov-2016 08:03:25 Canada/Eastern] PHP Parse error:  syntax error, unexpected '$temp' (T_VARIABLE) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 4166
+[25-Nov-2016 08:03:28 Canada/Eastern] PHP Parse error:  syntax error, unexpected '$temp' (T_VARIABLE) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 4166
+[25-Nov-2016 08:04:54 Canada/Eastern] PHP Fatal error:  Class 'home' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[29-Nov-2016 02:08:36 Canada/Eastern] PHP Fatal error:  Class 'Login' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 22
+[29-Nov-2016 02:08:42 Canada/Eastern] PHP Parse error:  syntax error, unexpected end of file, expecting '(' in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/login.php on line 25
+[30-Nov-2016 05:21:31 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home/thinkblu/public_html/webdev/onestep/onestepnew/ajaxCall.php on line 23
+[01-Dec-2016 03:26:23 Canada/Eastern] PHP Fatal error:  Call to undefined method Api::calculateestimate() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 51
+[01-Dec-2016 03:26:45 Canada/Eastern] PHP Fatal error:  Call to undefined method Api::calculateestimate() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 51
+[01-Dec-2016 03:29:13 Canada/Eastern] PHP Fatal error:  Class 'api' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[01-Dec-2016 06:20:39 Canada/Eastern] PHP Fatal error:  Call to undefined method Api::fetch_extest() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 51
+[03-Dec-2016 01:46:48 Canada/Eastern] PHP Fatal error:  Call to undefined method Api::listintproject() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 51
+[06-Dec-2016 02:04:34 Canada/Eastern] PHP Parse error:  syntax error, unexpected ''Email-Id or Mobile number i' (T_ENCAPSED_AND_WHITESPACE) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/api.php on line 220
+[06-Dec-2016 06:05:44 Canada/Eastern] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/api.php on line 2399
+[12-Dec-2016 06:21:56 Canada/Eastern] PHP Parse error:  syntax error, unexpected '<', expecting function (T_FUNCTION) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/project.php on line 892
+[12-Dec-2016 06:22:33 Canada/Eastern] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/project.php on line 961
+[12-Dec-2016 06:23:28 Canada/Eastern] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/project.php on line 961
+[17-Dec-2016 02:18:13 Canada/Eastern] PHP Fatal error:  Class 'project' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 48
+[23-Dec-2016 04:57:36 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/thinkblu/public_html/webdev/onestep/onestepnew/workorderint.php on line 69
+[23-Dec-2016 05:58:54 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home/thinkblu/public_html/webdev/onestep/onestepnew/workorderext.php on line 185
+[04-Jan-2017 07:25:43 Canada/Eastern] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/users.php on line 26
+[04-Jan-2017 08:37:26 Canada/Eastern] PHP Fatal error:  Cannot redeclare Users::myprofile() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/users.php on line 20
+[04-Jan-2017 08:37:30 Canada/Eastern] PHP Fatal error:  Cannot redeclare Users::myprofile() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/users.php on line 20
+[19-Jan-2017 03:24:05 Canada/Eastern] PHP Fatal error:  Call to undefined method Api::addroomtype() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 51
+[19-Jan-2017 23:23:08 Canada/Eastern] PHP Fatal error:  Call to undefined method Api::addroomtype() in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/libs/Bootstrap.php on line 51
+[20-Mar-2017 07:21:38 Canada/Eastern] PHP Parse error:  syntax error, unexpected 'p', expecting variable (T_VARIABLE) or quoted-string and whitespace (T_ENCAPSED_AND_WHITESPACE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/project.php on line 92
+[14-Apr-2017 05:28:29 Canada/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 424
+[14-Apr-2017 05:28:32 Canada/Eastern] PHP Parse error:  syntax error, unexpected ';' in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/home.php on line 424
+[14-Apr-2017 06:47:05 Canada/Eastern] PHP Parse error:  syntax error, unexpected end of file in /home/thinkblu/public_html/webdev/onestep/onestepnew/application/control/project.php on line 394

@@ -1,0 +1,7 @@
+For MTM and Margin Calculation execute by this link 
+
+Local Link
+http://localhost:81/alpha/mtmmargin/calculateDaily
+
+Server Link
+http://softwaredevelopment-india.com/demo/alpha/mtmmargin/calculateDaily
