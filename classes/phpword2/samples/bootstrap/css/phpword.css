@@ -1,0 +1,18 @@
+body {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 1000px;
+}
+.myclsa {
+font-size:14px;
+padding:0 10px!important;
+}
+.navbar {
+    margin-bottom: 20px;
+}
+.passed {
+    color: #339900;
+}
+.failed {
+    color: #ff0000;
+}

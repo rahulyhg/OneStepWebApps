@@ -1,0 +1,32 @@
+[22-Dec-2016 03:26:12 America/Denver] PHP Fatal error:  Class 'PhpOffice\PhpWord\PhpWord' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractext.php on line 5
+[22-Dec-2016 03:26:16 America/Denver] PHP Fatal error:  Class 'PhpOffice\PhpWord\PhpWord' not found in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractext.php on line 5
+[26-Jan-2017 05:19:34 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[18-Mar-2017 05:56:06 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[18-Mar-2017 07:27:30 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[18-Mar-2017 07:28:27 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[19-Mar-2017 07:09:26 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[29-Mar-2017 05:52:07 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[29-Mar-2017 05:55:11 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 10:01:54 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 10:03:25 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 10:04:31 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 10:04:43 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 10:06:47 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 11:13:53 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 11:15:17 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 11:17:06 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 11:17:24 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 11:18:43 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 11:20:23 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 11:24:13 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 12:47:14 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 12:59:33 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 13:06:25 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 13:10:48 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 13:13:12 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 13:14:03 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 13:19:18 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 13:25:04 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 13:48:26 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 13:52:44 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
+[03-Apr-2017 14:00:37 UTC] PHP Notice:  Undefined index: test in /home/thinkblu/public_html/webdev/onestep/onestepnew/classes/phpword2/samples/contractint.php on line 12
