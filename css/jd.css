@@ -1,0 +1,270 @@
+
+#jd-chat{
+	position:fixed;
+	bottom:-6px;
+	float:right;
+	right:0px;
+}
+.jd-body{
+	 max-height: 250px;
+    overflow-y: scroll;
+}
+#jd-chat .jd-user,.jd-online
+{	
+	margin-right:2px;	
+	width:200px;
+	display:inline-block;
+}
+.jd-footer input{
+	color:black !important;
+}
+#jd-chat .jd-online .light
+{
+	font-weight:bold;
+	text-decoration:none;
+	color:green;
+	text-transform:none;
+	float:right;
+	//display:none;
+}
+
+#jd-chat .jd-header .close-this
+{
+	float:right;
+}
+#jd-chat .jd-header
+{
+	padding:5px;
+	background:black;
+	color:white;
+	overflow:hidden;
+	cursor:pointer;
+}
+
+#jd-chat .jd-body .jd-online_user
+{
+	display:block;
+	padding:5px;		
+	cursor:pointer;
+	border-bottom:solid 1px gray;
+}
+#jd-chat .jd-body
+{
+	min-height:250px;
+	background:#e6e0df;
+}
+
+#jd-chat .jd-body  div.me
+{
+	display:block;
+	color:green;
+	border-bottom:1px solid #ccc;
+}
+
+#jd-chat .jd-body div.other
+{
+	display:block;
+	border-bottom:1px solid #ccc;
+}
+
+#jd-chat .jd-footer
+{
+	
+	background:black;
+	color:white;
+	overflow:hidden;
+}
+
+#jd-chat .jd-footer input
+{
+	padding:5px;
+	width:100%;
+}
+.date_time, .date_time2
+{
+	/*color:black;
+	float: right;right: 0;*/
+    
+	clear:both;
+    width: 100%;
+    font-size: 9px;
+	color: rgba(0,0,0,0.5);
+	font-weight: 400;
+}
+.date_time i, .date_time2 i
+{	font-size:12px;
+	margin-top:5px;
+}
+.leftclasschat1 .date_time, .leftclasschat1 .date_time2
+{float: left;
+text-align:left;}
+.rightclasschat1 .date_time, .rightclasschat1 .date_time2
+{float: right;text-align:right;}
+
+
+#jd-chat2{
+	position:fixed;
+	bottom:0;
+	float:right;
+	right:0;
+}
+.jd-body2{
+	 max-height: 250px;
+    overflow-y: scroll;
+}
+#jd-chat2 .jd-user2,.jd-online2
+{	
+	margin-right:2px;	
+	width:200px;
+	display:inline-block;
+}
+.jd-footer2 input{
+	color:black !important;
+}
+#jd-chat2 .jd-online2 .light
+{
+	font-weight:bold;
+	text-decoration:none;
+	color:green;
+	text-transform:none;
+	float:right;
+	//display:none;
+}
+
+#jd-chat2 .jd-header2 .cp_flt
+{
+	float:right;
+}
+#jd-chat2 .jd-header2
+{
+	padding:5px;
+	background:black;
+	color:white;
+	overflow:hidden;
+	cursor:pointer;
+}
+
+#jd-chat2 .jd-body2 .jd-online_user2
+{
+	display:block;
+	padding:5px;		
+	cursor:pointer;
+	border-bottom:solid 1px gray;
+}
+#jd-chat2 .jd-body2
+{
+	min-height:250px;
+	background:#e6e0df;
+}
+
+#jd-chat2 .jd-body2  div.me2
+{
+	display:block;
+	color:green;
+}
+
+$jd-chat2 .jd-body2 div.other2
+{
+	display:block;
+}
+
+#jd-chat2 .jd-footer2
+{
+	
+	background:black;
+	color:white;
+	overflow:hidden;
+}
+
+#jd-chat2 .jd-footer2 input
+{
+	padding:5px;
+	width:100%;
+}
+
+#jd-chat2,#jd-chat{
+	z-index: 10;
+}
+
+.jd-body .other,.jd-body2 .other,.jd-body .me, .jd-body2 .me
+{
+	display:block;
+	float: left;
+	clear:both;
+	width: 100%;
+}
+
+.leftclasschat1
+{	float:left;
+	position:relative;
+	clear:both;
+	width: auto;
+	min-height:30px;
+	max-width: 80%;
+	margin: 4%;
+	WORD-WRAP: break-word;
+    padding: 3%;
+	border-radius: 2px;
+	background: white none repeat scroll 0 0;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+.leftclasschat11
+{	float:left;
+	position:relative;
+	clear:both;
+	width: 80%;
+	margin: 4%;
+    padding: 3%;
+	border-radius: 2px;
+	background: white none repeat scroll 0 0;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+.rightclasschat1 .class1, .leftclasschat1>div,.rightclasschat1 > span,.leftclasschat1>span
+{	max-width: 80%;
+}
+.rightclasschat1
+{	float:right;
+	position:relative;
+	clear:both;
+	width: 80%;
+	margin: 4%;
+    padding: 3%;
+	WORD-WRAP: break-word;
+	border-radius: 2px;
+	background: white none repeat scroll 0 0;
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.close-this2{
+	display:inline-block;
+}
+.up_down2, .up_down1{
+	margin-right : 5px;
+}
+/*
+.other::before {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: green green transparent transparent;
+    border-image: none;
+    border-style: solid;
+    border-width: 5px;
+    content: "";
+    height: 0;
+    position: relative;
+    right: 16px;
+    top: -6px;
+    width: 0;
+    float: left;
+
+}
+.leftclass{
+float:left!important;
+width:100%!important;
+}
+.rightclass{
+float:right!important;
+width:100%!important;
+}*/

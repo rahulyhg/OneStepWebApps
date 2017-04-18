@@ -1,0 +1,47 @@
+.width49
+{
+	width:49%;
+	float:left;
+}
+.bold
+{
+	font-weight: bold;
+}
+.width40
+{
+	width:40%;
+	float:left;
+}
+.width60
+{
+	width:60%;
+	float:left;
+}
+.width20
+{
+	width:20% !important;
+	float:left;
+}
+.width22
+{
+	width:22% !important;
+}
+.clearFilter
+{
+	width: 250px; 
+	margin-top: 15px; 
+	float: right; 
+	text-align: right;
+}
+.width81
+{
+	width:81%;
+}
+.width32
+{
+	width:32%;
+	float:left;
+}
+.textRight {
+  text-align:right;
+}

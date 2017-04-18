@@ -1,0 +1,694 @@
+/*!
+ * Start Bootstrap - Full Slider HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+html,
+body {
+    height: 100%;
+	font-family:LatoWeb, arial !important;
+}
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+/*login css*/
+.main{
+float:left;
+width:100%;
+background:#f7f7f7;
+}
+
+#login-dp{
+    min-width: 300px;
+    padding: 14px 14px 0;
+    overflow:visible!important;
+    background-color:rgba(255,255,255,1);
+	    border-radius: 5px;
+    box-shadow: 0 0 3px #ddd;
+	left:-110px;
+}
+#login-dp .help-block{
+    font-size:12px    
+}
+#login-dp .bottom{
+     background-color: rgba(255, 255, 255, 1);
+    border-radius: 0 0 25px 25px;
+    border-top: 1px solid #ddd;
+    clear: both;
+    margin-left: 1px;
+    padding: 14px;
+    width: 99%;
+}
+#login-dp .social-buttons{
+    margin:12px 0    
+}
+#login-dp .social-buttons a{
+    width: 49%;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+.btn-fb{
+    color: #fff;
+    background-color:#3b5998;
+}
+
+.btn-fb:hover{
+    color: #fff;
+    background-color:#496ebc 
+}
+.btn-tw{
+    color: #fff;
+    background-color:#55acee;
+}
+.btn-tw:hover{
+    color: #fff;
+    background-color:#59b5fa;
+}
+@media(max-width:768px){
+    #login-dp{
+        background-color: inherit;
+        color: #fff;
+    }
+    #login-dp .bottom{
+        background-color: inherit;
+        border-top:0 none;
+    }
+}
+
+
+.sign_up_bg
+{
+background-color:#F7F7F7;
+}
+
+#login-dp .icon-caret-up
+{	
+    color: #ddd;
+    font-size: 25px;
+    height: 5px;
+    left: 46%;
+    line-height: 2px;
+    position: absolute;
+    text-align: center;
+    top: -20px;
+    width: 9px;
+}
+.form-control{
+	background:#FAFAFA!important;
+}
+.dropdown-menu
+{	left:-13px;
+}
+.wologin a {
+    color: #fff !important;
+    font-family: LatoWebBold;
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.wologin
+{	margin-left: 6%!important;
+	margin-top: 33px!important;
+}
+.lableclass
+{	color:#333333!important;
+	 font-size: 13px;
+	font-weight:normal!important;
+}
+.navbar-brand
+{	padding:20px!important;
+}
+h1, .h1, h2, .h2, h3, .h3
+{	margin:0!important;
+}
+#myModalLabel
+{	text-transform: uppercase;
+	font-size: 18px;
+	color:#333333!important;
+}
+ul.logoutmenu
+{
+	width: 100%;
+    float: left;
+}
+.logoutmenu li {
+    width: 100%;
+    float: left;
+    padding: 10px 5px 10px 5px;
+}
+ul.logoutmenu li div.proname
+{
+	width: 75%;
+    margin-left: 25%;
+    line-height: 40px;
+	color: #333;
+	font-weight: bold;
+}
+#livedemo-home
+{
+	transition: all 0.9s ease-in-out 0s;
+	float: left;
+    width: 100%;
+	color:white;
+	background: #f9f5f6;
+}
+/* #livedemo-home .row{background:url("../images/mac.png") no-repeat scroll 112% 78%;} */
+.livedemo,.livedemotext
+{
+	float: left;
+    width: 100%;
+	padding-left:5px;
+}
+.livedemo
+{
+	text-align:center;
+	margin-bottom:15px;
+}
+.livedemotext
+{
+	text-align: center;
+}
+.livedemotext a{
+	border: 2px solid #015b7e;
+    border-radius: 50px;
+    color: #015b7e;
+    display: inline-block;
+    float: left;
+    margin-top: 30px;
+    padding: 10px 30px;
+    text-decoration: none !important;
+    text-transform: uppercase;
+	font-family:LatoWeb;
+	font-size:16px;
+}
+/* .livedemotext a:hover
+{
+	background:white;
+	color:#23527c;
+} */
+.livedemotext h2 {
+   font-family: LatoWebLight;
+    font-size: 60px;
+    font-weight: normal;
+    padding: 0 0 15px;
+    text-align: left;
+	color:#333;
+}
+
+.livedemotext p {
+    font-size: 16px;
+	text-align: left;
+	color:#666;
+}
+.livedemotext ul {
+    list-style: outside none none;
+    padding-left: 0;
+	float:left;
+	margin-top:20px;
+}
+/* .livedemotext ul  li span{
+   left: 10px;
+   top:-3px !important;
+   margin-top:0px !important;
+    opacity: 1;
+    position: absolute;
+} */
+.carousal1
+{	float: left;
+    padding-left: 0px;
+    text-align: left !important;
+    width: 100% !important;
+	margin-top: 20px;
+}
+.carousal1 .icon-img{
+float: left; 
+width: 6%;
+font-family:LatoWeb;
+margin-right:15px;
+min-width: 75px;
+}
+.carousal1 .icon-text{
+float: left; 
+max-width: 460px;
+width: 100%;
+font-family:LatoWeb;
+margin-top:-10px;
+}
+.carousal1 .icon-text h4{
+color:#333;
+font-weight:bold;
+font-size:18px;
+}
+.carousal1 .icon-text p{
+color:#666;
+font-size:16px;
+}
+.footer ul{
+	float: left;
+    list-style: outside none none;
+    padding-left: 0px !important;
+    width: 100%;
+}
+.footer ul li{
+	color: #818181;
+    float: left;
+    font-size: 15px;
+    width: 100%;
+}
+.footer ul li i{
+	float: left;
+    padding-top: 5px;
+    width: 8%;
+}
+.footer ul li p
+{
+	float: left;
+    height: 15px;
+    line-height: 24px;
+    width: 88%;
+}
+.livedemo a
+{
+	display: inline-block;
+    float: left;
+}
+#footer-bottom {
+    background-color: #015b7e;
+    color: #6e6e6e;
+    padding: 26px 0;
+	float:left;
+	width:100%;
+}
+#footer-bottom  .row ,#footer-top  .row ,.footer  .row,#livedemo-home .row,.biography .row,.bill .row,.booking .row ,.SMS .row,.chat .row,.testimonial .row,.switching .row,.support .row,.pricing-level .row,.contact-form .row, .anywareimg .row, .anywaretop .row, .fillback1 .row{
+    max-width: 1170px;
+	width:100%;
+    margin: 0 auto;
+    position: relative;
+}
+#footer-bottom  #footer-bottom-widget-area-2 ul  {
+    float: left;
+    list-style: outside none none;
+    width: 100%;
+}
+#footer-bottom  #footer-bottom-widget-area-2 ul li {
+    float: left;
+   padding: 0 10px;
+}
+.header{
+background: #3F3F3F;
+    border-radius: 5px 5px 0 0;
+    color: white;
+    font-size: 25px;
+    font-weight: 300;
+    padding: 25px;
+	text-align: center;
+	text-transform:uppercase;
+	font-family:LatoWeb;
+}
+.frequency{font-size:25px;}
+.price{
+ background: rgba(0, 0, 0, 0) linear-gradient(10deg, #93da9f 30%, #66d2ac 80%) repeat scroll 0 0;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset;
+    color: white;
+    font-size: 35px;
+    padding: 10px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	text-align: center;
+}
+.price:hover .base {
+    height: 20px;
+}
+.price .base{
+    color: #2f757f;
+    display: block;
+    font-size: 0.6em;
+    height: 0;
+    overflow: hidden;
+    transition: all 400ms ease 0s;
+}
+.items{
+padding: 35px;
+}
+.wrapper{
+background:#EEEEEE;
+}
+ul.items  li{
+list-style:none;
+ text-align: center;
+ margin:22px;
+ color:white;
+ font-family:LatoWeb;
+ font-size:15px;
+}
+
+.biography ,.booking,.chat,.support
+{
+	background: #23527c none repeat scroll 0 0;
+    clear: both;
+    color: white;
+    float: left;
+    padding: 20px;
+    width: 100%;
+}
+.right{
+	float: left;
+    /*margin-top: 36px;*/
+    padding: 20px;
+    width: 100%;
+	font-size:20px;
+}
+.left{
+	float: left;
+    width: 100%;
+	text-align:center;
+}
+.bill,.SMS,.switching{
+	clear: both;
+    color: #23527c;
+    float: left;
+    padding: 20px;
+    width: 100%;
+	background:#fff;
+}
+.textdetails,.textdetails1
+{
+	float:left;
+	width:100%;
+    background-position: 0 8px;
+    background-repeat: no-repeat;
+    /*padding-left: 25px;*/
+}
+/*.textdetails1{
+background-image: url("../images/right-icon-17.png");
+}
+.textdetails{
+background-image: url("../images/right-icon-16.png");
+}*/
+.righticon
+{
+	float:left;
+	width:5%;
+}
+.carousel-control{
+		margin-top:0px!important;
+}
+.modal .col-md-6{
+	padding:5px !important;
+}
+#footer-bottom-widget-area-1 .textwidget .last{
+color: white;
+    font-size: 15px;
+    text-align: center;
+}
+.footer .widget-title{
+margin-bottom:45px;
+font-size:20px;
+text-transform: uppercase;
+}
+.footercontact{
+float:left;
+width:100%;
+max-width:150px;
+padding: 5px 15px;
+border:2px solid #92c46d;
+border-radius:50px;
+margin-top:45px;
+text-align:center;
+color:white;
+}
+#footer-top{
+background:#92C46D;
+padding:65px 30px;
+float:left;
+width:100%;
+}
+#footer-top h2,#footer-top p{
+color:white;
+float:left;
+width:100%;
+}
+#footer-top p{
+margin-top:10px;
+}
+.footermail{
+border-radius: 5px;
+color: #333;
+font-size: 15px;
+margin-left: 35px;
+margin-top: 20px;
+max-width: 300px;
+padding: 9px 10px;
+text-transform: capitalize;
+width: 100%;
+float: left;
+border: 1px solid #ccc;
+background: #e4f0da none repeat scroll 0 0;
+}
+.footersend{
+background: transparent none repeat scroll 0 0;
+border: 2px solid white;
+border-image: none;
+border-radius: 50px;
+color: white;
+float: left;
+font-size: 15px;
+font-weight: 600;
+margin-left: 47px;
+margin-top: 20px;
+max-width: 150px;
+padding: 7px;
+width: 100%;
+}
+.gradient {
+  background-image: -moz-linear-gradient( -55deg, rgb(146, 196, 109) 0%, rgb(0, 91, 127) 100%);
+  background-image: -webkit-linear-gradient( -55deg, rgb(146, 196, 109) 0%, rgb(0, 91, 127) 100%);
+  background-image: -ms-linear-gradient( -55deg, rgb(146, 196, 109) 0%, rgb(0, 91, 127) 100%);
+  position:0px;
+  background-attachment: fixed;
+  width: 100%;
+  float:left;
+  z-index: 132;
+}
+.anyware{
+width:100%;
+float:left;
+font-size:14px;
+font-weight:normal;
+color:white;
+line-height: 26px;
+margin-bottom:20px;
+}
+.fillback1{
+width:100%;
+float:left;
+text-align:center;
+padding-bottom:60px;
+}
+.anywaretop{
+float:left;
+width:100%;
+font-size:60px;
+font-family:LatoWebLight;
+text-align:center;
+color:white;
+margin-top:85px;
+margin-bottom:60px;
+}
+.anywareicon{
+float:left;
+width:100%;
+text-align:center;
+}
+.anywaretext{
+color: white;
+float: left;
+font-size: 24px;
+padding-top: 25px;
+text-align: center;
+width: 100%;
+}
+.anywareicon img{
+width:50px;
+}
+.anywareimg ul{
+float:left;
+width:100%;
+margin-bottom: 80px;
+}
+.anywareimg ul li{
+float: left;
+list-style: outside none none;
+padding: 1%;
+width: 20%;
+}
+@media screen and (max-width:480px){
+.anywareimg ul li{
+ width:100% !important;
+ }
+ .anywaretop, .livedemotext h2, .filltext{
+ font-size:35px !important;
+ }
+ .filltextlast{font-size:20px !important;}
+}
+.socialicons {
+float: left !important;
+margin-top: 38px ;
+max-width: 130px ;
+padding-left: 10px !important;
+width: 100% !important;
+}
+.socialicons li{
+float: left !important;
+height: 20px !important;
+list-style: outside none none !important;
+margin-right: 10px !important;
+width: 20px !important;
+}
+.socialicons .sociallink{
+color:transparent;
+float:left;
+}
+.socialicons .sociallinkfacebook{
+background:url("../images/fa-facebook-square.png") no-repeat scroll 0 0;
+height: 20px;
+width: 20px;
+}
+.socialicons .sociallinkinsta{
+background:url("../images/fa-instagram.png") no-repeat scroll 0 0;
+height: 20px;
+width: 20px;
+}
+.socialicons .sociallinktwitter{
+background:url("../images/fa-twitter-.png") no-repeat scroll 0 0;
+height: 20px;
+width: 20px;
+}
+.socialicons .sociallinkplus{
+background:url("../images/fa-google-plus.png") no-repeat scroll 0 0;
+height: 20px;
+width: 20px;
+}
+@media only screen and (max-width: 768px){
+	.fillback{
+		width: 90%!important;
+		 left: 5%!important;
+	}
+	.filltext,.filltextlast{
+		width:100%!important;
+	}
+	.pricing-container{
+		margin:4% 0%!important;
+		min-width:0px !important;
+		width:100%!important;
+	}
+	.container .row{
+		margin-left:0px !important;
+		margin-right:0px !important;
+	}
+	.contact-form .row img{
+		margin-bottom:70px!important;
+		margin-top:0px!important;
+	}
+	.wologin{
+		margin-left: 0 !important;
+		margin-top: 0 !important;
+	}
+	.right{
+    padding: 10px 0px !important;
+	font-size:17px !important;
+	}
+	.navbar-header {
+	text-align:center !important;
+	}
+	.navbar-header a{
+	float:none !important;
+	}
+	.span12,.widget{
+		padding:0 !important;
+	}
+	.span12 .widget a.btn-primary,.span12 .widget select,.searchFilterClass,#mytable_wrapper .dataTables_length,#mytable_wrapper .dataTables_filter,#mytable_wrapper .dataTables_length label,#mytable_wrapper .dataTables_filter label{
+		float:left!important;
+		width:100%!important;
+		margin-bottom:10px !important;
+	}
+	.modal{
+		width:90% !important;
+		height:auto !important;
+	}
+	.dataTables_wrapper{
+		overflow-x: scroll !important;
+		overflow-y: hidden !important;
+	}
+	.dataTables_paginate{
+		margin-bottom:10px !important
+	}
+	.dataTables_paginate .first,.dataTables_paginate .last{
+		display:none !important;
+	}
+	.modal .col-md-6,#Inventry .container,#Inventry .container #Disinfectants,#Inventry .container #Disinfectants .col-md-12,.container .col-md-6,.container .col-md-6 .col-md-12{
+		padding:0 !important;
+	}
+	.well{
+	border:0px none !important;
+	}
+	#Inventry #Disinfectants .table-responsive{
+		margin-top:10px !important;
+	}
+	#mytable_wrapper,.horizontal-form{
+		padding: 5px !important;
+	}
+	#mytable_wrapper .dataTables_filter label input{
+		float:left!important;
+		width:100%!important;
+	}
+	.widget .portlet-body{
+		margin-left: 0 !important;
+	}
+	.horizontal-form .form-body .row div.col-md-12 .form-group .controls{
+		width:100% !important;
+		float:left !important;
+	}
+	.portlet-body .btn-success,.registered-users .btn-success{
+		float:left !important;
+		padding: 5px !important;
+		width:100% !important;
+	}
+	.portlet-body .btn-primary{
+		float:left !important;
+		padding: 5px !important;
+		width:96% !important;
+		margin: 15px 5px !important;
+	}
+	#payment-form .control-group{
+		margin:0px !important;
+		padding: 5px !important;
+	}
+	.footersend{
+	margin-left:35px !important; 
+	}
+	.footermail{
+	margin-left:0px !important; 
+	}
+}
