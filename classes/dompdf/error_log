@@ -1,0 +1,1 @@
+[18-Aug-2015 09:05:20 UTC] PHP Fatal error:  Cannot access protected property phpmailerException::$message in /home/iroid/public_html/vettreefiles/classes/sMail.php on line 36
