@@ -1,0 +1,34 @@
+1.  Admin panel
+2.  Player registration(login)
+3.  User registration(login)
+4.  Live score(Full Score Card)
+5.  Team wise listing
+6.  Playes wise listing (Batsman, Bowlers, Allrounders)
+7.  Stories (Added by users) Like Global Chatting
+8.  Like and comment on stories
+9.  Selfie pic
+10. Lots Listing(Match Shedule)
+11. Man of the match playrs
+12. Sponsors
+13. Most Runs Hitter
+14. Most Wickets Tacker
+15. List Of winner teams(Match Date time wise)
+16. Upcoming Matches
+17. Photo Gallary
+18. Video Gallary
+19. Organizers Listing
+20. Sponsers
+21. News of live match
+22. Advertisement
+
+==============================
+
+For Website with Adminpanel(3 User Type) --- 50,000
+For Android Only for User & Player       --- 25,000
+For IOS Only for User & Player           --- 25,000
+
+-------------------------------------------------------
+
+Total -------------------------------------- 1,00,000
+
+Now we can negotiate the amount. also if you can reduce above features than we will negotiate the above price as well.
