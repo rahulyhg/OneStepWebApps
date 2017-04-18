@@ -1,0 +1,52 @@
+.page-title > h1{font-size:24px !important;margin:0 !important}
+h1,h2,h3,h4,h5,h6{font-family:"Bree Serif",sans-serif;}
+body{font-family:"Roboto Condensed",sans-serif;}
+/* span.title{font-weight:bold;} */
+.publishedclass
+{
+ padding:5px; background:#DFF0D8; color:#3C763D; text-decoration:none;
+ width: 100%;
+    float: left;
+    text-align: center;
+ text-transform:capitalize;
+}
+.publishedclass:hover{color:#3C763D;text-decoration:none;}
+.pendingclass:hover{color:#A48C62;text-decoration:none;}
+.expiredclass:hover{color:#A94442;text-decoration:none;}
+.pendingclass
+{
+ padding:5px; background:#FCF8E3; color:#A48C62; text-decoration:none;
+ width: 100%;
+    float: left;
+    text-align: center;
+ text-transform:capitalize;
+}
+.expiredclass
+{
+ padding:5px; background:#F2DEDE; color:#A94442; text-decoration:none;
+ width: 100%;
+    float: left;
+    text-align: center;
+ text-transform:capitalize;
+}
+.dataTables_wrapper .dataTables_paginate .paginate_button{padding:0px !important;}
+@media(max-width:640px){
+	.dataTables_wrapper .dataTables_paginate .paginate_button a{padding:2px 6px !important;}
+	.expiredclass, .publishedclass, .pendingclass{float:none !important;}
+	.dataTables_wrapper .row:nth-child(1) .col-sm-6,.dataTables_wrapper .row:nth-child(1) .col-sm-6 div{float:left;}
+	.dataTables_wrapper .row:nth-child(1) .col-sm-6 .dt-buttons{margin-top:10px;}
+	.dataTables_wrapper .row:nth-child(1) .col-sm-6 .dt-buttons a.btn{float: left;overflow: hidden;text-overflow: ellipsis;width: 25%;}
+	.dataTables_wrapper .row:nth-child(1) .col-sm-6 .dataTables_length select{margin:0px 40px 0 15px;}
+}
+.dataTables_wrapper table tr > td {
+    max-height: 100px !important;
+    max-width: 100px !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+.dt-button-collection li.dt-button.buttons-columnVisibility.active a {
+    background: #337ab7 !important;
+    color: white;
+}

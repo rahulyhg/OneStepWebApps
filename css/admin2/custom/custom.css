@@ -1,0 +1,129 @@
+/*================================================================================
+	Item Name: Materialize - Material Design Admin Template
+	Version: 3.1
+	Author: GeeksLabs
+	Author URL: http://www.themeforest.net/user/geekslabs
+================================================================================
+
+NOTE:
+------
+PLACE HERE YOUR OWN CSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
+WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
+
+.fontimg{
+	text-align: center; color: white; font-weight: bold; font-size: 40px; border-radius: 50%; height: 50px; width: 50px; line-height: 50px;
+}
+
+footer.page-footer {
+    padding-top: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+	z-index:9;
+}
+#main{
+	padding-bottom:50px;
+}
+.blueclr{
+	background: #4285f4 !important;
+}
+.ligh-blueclr{
+	background: #7BAAF7 !important;
+}
+ul.side-nav.leftside-navigation li{
+	line-height:46px !important;
+}
+#chat-out{
+	top:64px !important;
+}
+textarea{
+ border-top:0px;
+ border-left:0px;
+ border-right:0px;
+ border-bottom:1px solid #009688;
+}
+textarea:focus{
+ border-bottom:2px solid #009688;
+}
+.greyclr{
+	background: #C2BFC6;
+}
+
+.yellowclr{
+	background: #FDFF9C;
+}
+.dark_yellowclr{
+	background: #FFCB03;
+}
+.light_blueclr{
+	background: #CDFFFF;
+}
+.light_orangeclr{
+	background: #FFCC93;
+}
+.light_redclr{
+	background:#FF99CC;
+}
+.light_purpleclr{
+	background:#CC99FF;
+}
+.light_greenclr{
+	background:#CCFFCC;
+}
+.dark_blueclr{
+	background:#99CCFF;
+}
+ul#slide-out li:not(.user-details) a:hover {
+    color: rgb(66, 133, 244) !important;
+}
+.clientname{
+	height: 70px; width: 70px; text-align: center;font-size:46px;color:white;font-weight:bold;
+}
+.fc button{
+	padding-left:5px !important;
+	padding-right:5px !important;
+}
+.mycls:hover{
+	background:#4285f4 !important;
+}
+.mycls:hover i{
+	color:#fff !important;
+}
+#profile-card .card-image{
+	height:85px !important;
+}
+#profile-card .card-profile-image{
+	top:50px !important;
+}
+@media (min-width:1200px){
+	#left-sidebar-nav #slide-out{
+		width:200px;
+	}
+	/* #main{
+		padding-left: 200px !important;
+	} */
+	#profile-dropdown li a {
+		float: left;
+		font-size: 14px;
+		height: auto;
+		padding: 10px 5px !important;
+		width: 100%;
+	}
+	#profile-dropdown li a i {
+		font-size: 16px;
+		height: auto;
+		margin: 0;
+		padding: 0;
+	}
+	.side-nav .collapsible-body li a{
+		margin-left: 1rem !important;
+	}
+	ul.side-nav.leftside-navigation li.user-details{
+		padding-left:0px !important;
+	}
+	.user-details .mdi-navigation-arrow-drop-down.right{
+		padding-top: 0 !important;
+		width: 14px !important;
+		font-size:21px !important;
+	}
+}
